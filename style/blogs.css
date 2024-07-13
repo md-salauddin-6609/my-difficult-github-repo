@@ -1,0 +1,12 @@
+div{
+    border: 2px solid rgb(75, 84, 100);
+    padding: 10px;
+    margin: 10px;
+    color: blueviolet;
+
+}
+h3{
+    text-decoration: underline cornflowerblue;
+    background-color: burlywood;
+    width: 45%;
+}
