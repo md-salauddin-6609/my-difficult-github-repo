@@ -5,10 +5,14 @@ div{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(209, 215, 215);
-
+   
 }
 h3{
     text-decoration: underline cornflowerblue;
     background-color: burlywood;
     width: 45%;
+}
+h1{
+    font: italic;
+    text-align: center;
 }
